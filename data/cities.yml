@@ -1,0 +1,16 @@
+- name: PARIS, France
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  github_nickname: shoutty
+- name: RIO, Brésil
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/rio'
+  github_nickname: shoutty
+- name: LONDON, UK
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/london'
+  github_nickname: shoutty
+- name: LILLE, France
+  description: Nice flat
+  picture: 'https://kitt.lewagon.com/placeholder/cities/lille'
+  github_nickname: shoutty
